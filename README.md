@@ -1,2 +1,2 @@
-# utilidades_guguebn_python
- Pacotes uteis para python
+# Utilidades Gustavoebneves Python
+ Pacotes úteis para python
