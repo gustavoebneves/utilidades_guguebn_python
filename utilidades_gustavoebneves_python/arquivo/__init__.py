@@ -3,8 +3,10 @@ def arquivo_existe(nome_arquivo):
         a = open(nome_arquivo, 'rt')  # rt -> read + text
         a.close()
     except FileNotFoundError:
+        print(f'\033[31mArquivo "{nome_arquivo}" não encontrado!\033[m\n')
         return False
     else:
+        print(f'\033[32mArquivo "{nome_arquivo}" encontrado!\033[m\n')
         return True
 
 
