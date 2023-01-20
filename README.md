@@ -6,3 +6,5 @@
  Algumas funcionalidades foram desenvolvidas como exercícios dos cursos, mas as achei importantes e úteis, então resolvi utilizar fora dos exercícios.
 
  Sim, muita coisa pode melhorar.
+ 
+ Mais coisas estão sendo adicionadas.
