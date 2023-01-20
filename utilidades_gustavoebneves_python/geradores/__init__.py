@@ -27,7 +27,3 @@ def gerador_de_nomes(quant_sobrenom = 3):
     
         nome_completo = primeiro_nome + ' ' + sobrenome_completo
         return nome_completo
-
-print()
-print(gerador_de_nomes()) # mudar o parâmetro pra qualquer número
-print()
